@@ -29,8 +29,10 @@ The user would find a place in which they could comfortable place an electronic 
 ## Research 
 I conducted participatory observation research, over the phone, with a friend who does not perfectly fit but is close to my target demographic.
 
-Script: 
+#### Script: [here](https://docs.google.com/document/d/1F86R_nkXRZ1aBp-SlaG686IyULwL8okDznB9elLyIrY/edit?usp=sharing)
 
-Recording:
+#### Recording: [here](https://drive.google.com/file/d/1Mn2rAt1lchtLF1zkIo9rl0Xj2YWdhHcW/view?usp=sharing)
+
+#### Transcript: [here](https://docs.google.com/document/d/1Y0HU7Y2xozpsJuSLMUWWRWi-GdlaHmkla-7vr-XOWHQ/edit?usp=sharing)
 
 ## Reflection
