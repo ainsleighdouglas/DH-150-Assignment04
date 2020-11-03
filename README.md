@@ -14,11 +14,25 @@ Current solutions include a variety of streaming platforms but each one has its 
 Limitations of streaming platforms could be greatly improved with alterations or advancements in technology. Although they already run on digital technology there are some key issues (like bandwidth and wifi) that discourage people from relaxing in this way. 
 
 # Step02: Target users 
+#### What are the characteristics of users? (ex. demographics, preference, expertise)
+Demographic: people who have access to technology (computer/TV/wifi/etc.), people who can use technology comfortably (roughly ages 18 - 49)  
+Preferences: users desire an escape from reality, a fun form of education or a creative outlet for inspiration
+Expertise: ideally very low expertise, just simple knowledge of common internet icons
+
+#### Where would the users do that activity?
+Users would normally do this activity in a space in which they are comfortable. The idea is the activity reduces external stress and addition the user needs technology, so most likely in the comfort of the users home.
+
+#### What would the users do to complete that activity?
+The user would find a place in which they could comfortable place an electronic device and search the streaming platform for their desired show. To find a show they like, the user may search the internet to find which streaming platform it's on or they may go to their selection of streaming platforms and search there.
+
 
 # Step03: Pick research methods (or a combination of methods) 
+I conducted participatory observation research, over the phone, with a friend who does not perfectly fit but is close to my target demographic.
 
 # Step04: Plan to get into the context & write down the observation/ interview guide
+Script: 
 
 # Step05: Conduct the research
+Recording:
 
 # Step06: Reflection
